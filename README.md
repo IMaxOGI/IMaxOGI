@@ -1,24 +1,8 @@
-# Maxim Oganesyan
+# Hi, I'm Maxim 👋
 
-## About Me
-Accomplished Front-End Developer with over 3 years of experience specializing in the JavaScript ecosystem. Expertise in React, Next.js, Node.js, and modern frameworks and tools. Proven ability to improve website performance by up to 25% and increase user engagement through innovative solutions. Successfully completed over 10 major projects, contributing to a 15% increase in client satisfaction. Developed and maintained web applications with a combined user base of over 40,000 monthly active users.
+[![Linkedin Badge](https://img.shields.io/badge/-maxim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxim-oganesyan-972a55206/)](https://www.linkedin.com/in/maxim-oganesyan-972a55206/)
+[![Gmail Badge](https://img.shields.io/badge/-max165773@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:max165773@gmail.com)](mailto:max165773@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/-IMaxOGI-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/IMaxOGI)](https://github.com/IMaxOGI)
+[![Telegram Badge](https://img.shields.io/badge/-@IMax_OGI-0088cc?style=flat&logo=Telegram&logoColor=white&link=https://t.me/IMax_OGI)](https://t.me/IMax_OGI)
 
-## Skills
-### Frontend
-- HTML, CSS, SASS
-- JavaScript, TypeScript
-- jQuery, Vue.js, React, React Query, Redux, Redux Toolkit
-- Bootstrap, Tailwind, Material UI
-
-### Backend
-- Node.js, PHP, Express.js
-- MongoDB, REST API, GraphQL, AJAX
-
-### Tools
-- Build Tools: Webpack, Rollup
-- Version Control: GitHub, GitLab, GitBash
-- Containerization: Docker
-- Design & Prototyping: Figma, Adobe Photoshop
-
-### Additional Skills
-- ES6, OOP, JSON
+Welcome to my profile! I'm a Front-End Developer with a passion for creating performant and user-friendly web applications. I have expertise in React, Next.js, and modern JavaScript frameworks. Always eager to learn new technologies and improve my skills. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/maxim-oganesyan-972a55206/)!
