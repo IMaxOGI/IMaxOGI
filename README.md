@@ -7,6 +7,4 @@
 
 Welcome to my profile! I'm a Front-End Developer with over 3 years of experience in the JavaScript ecosystem. I specialize in React, Next.js, and modern frameworks, and have a proven track record of improving website performance and user engagement. My goal is to create performant and user-friendly web applications while continuously learning new technologies and enhancing my skills.
 
-Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/maxim-oganesyan-972a55206/)!
-
 [Here is my resume](https://github.com/IMaxOGI/IMaxOGI/blob/main/resume.pdf)
